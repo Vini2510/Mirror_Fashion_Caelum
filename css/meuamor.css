@@ -1,0 +1,28 @@
+body	{
+							margin-left:	auto;
+							margin-right:	auto;
+							width: 740px;
+							
+					background-image:	url(../img/meuamor.png);
+	
+			}
+			
+body	{
+			color: #333333;
+			font-family: "Lucida	Sans	Unicode",	"Lucida	Grande",	sans-serif;
+	}
+	
+	h1	{
+							padding: 15px;
+							margin-left:	auto;
+							margin-right:	auto;
+							width: 350px;
+	}
+	 p {
+		 LINE-HEIGHT:25px;
+	 }
+
+img {
+    margin: auto;
+    display: block;
+}
